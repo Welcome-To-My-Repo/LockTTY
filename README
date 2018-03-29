@@ -1,0 +1,7 @@
+This is a simple program to lock a linux getty.
+
+LockTTY will hijack the terminal and will only end when the current user's password is entered or when the computer is shut down.
+
+When will this ever be useful?
+For the same reason a graphical screen locker is included in all the favorite Linux Desktop Environments: People want to leaver their computers for a time without others messing with them.
+Terminal junkies still need a locker even when they aren't using a graphical environment.
