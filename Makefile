@@ -12,3 +12,8 @@ install:
 	@echo installing...
 	@cp locktty /usr/local/bin/
 	@echo finished
+
+uninstall:
+	@echo uninstalling...
+	@rm /usr/local/bin/locktty
+	@echo finished
